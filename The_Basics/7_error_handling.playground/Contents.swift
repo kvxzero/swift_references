@@ -24,7 +24,7 @@ do {
 // majorly used to enforce valid data and to predict invalid states and debug easily
 
 let age = 16
- assert(age > 18, "Who let the child to access the internet?")
+assert(age > 18, "Who let the child to access the internet?")
 
 // throws an Assertion failed error along with the error msg that is custom specified
 
